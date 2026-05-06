@@ -150,7 +150,7 @@ function App() {
       <header className="header">
         <div>
           <h1>Hotel Booking Management System</h1>
-          <p>React frontend connected to PHP API and MySQL database</p>
+          <p></p>
         </div>
       </header>
 
